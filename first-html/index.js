@@ -5,8 +5,7 @@ console.log("Hi there!");
 //"""    while(Date.now() < startTime + miliseconds);
 """}*/
 for(let i=0; i<10;i++){
-    console.log('Hi number '++i)
+    console.log('Hi number '+i)
 }
-sleep(2000);
 
 console.log('Hi there after sleep');
