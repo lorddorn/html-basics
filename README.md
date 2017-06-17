@@ -6,4 +6,4 @@ Learning HTML by doing
 
 1. [First HTML](first-html)
 2. [Unordered List](unordered-list)
-3. [Content Images](content-imagess)
+3. [Content Images](content-images)
